@@ -1,6 +1,6 @@
 # Machine Learning Hyperparameter Search (from Grid Search to SKOPT)
 
-This repository contains the Jupyter (formerly IPython) notebook support for the Lisbon Data Science meetup of 2016/10/19, held at Startup Lisboa, Portugal, presented by [Hugo Lopes](https://linkedin.com/in/hugodlopes). Feel free to use it. [Link to the Meetup](https://www.meetup.com/Lisbon-Open-Data-Meetup/events/234758716/).
+This repository contains the Jupyter (formerly IPython) notebook support for the Lisbon Data Science meetup of 2016/10/19, held at Startup Lisboa, Portugal, presented by [Hugo Lopes](https://linkedin.com/in/hugodlopes) (presentation [here](https://drive.google.com/file/d/0Bwi23MPVI4CtbGNXOVUzeU9RcE0/view?usp=sharing)). Feel free to use it. [Link to the Meetup](https://www.meetup.com/Lisbon-Open-Data-Meetup/events/234758716/). 
 
 ## Introduction
 An important part of using any machine learning algorithm (such as Logistic Regression or Random Forests) is tuning the hyper parameters.  
